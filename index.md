@@ -1,6 +1,6 @@
 # Zackary J Schreur
 
-## Audiate 
+## [Audiate](https://www.techsmith.com/audiate.html)
 - Developer on the Audiate team at TechSmith
 - Helped to launch the Beta & 1.0 
 - Work in an agile setting
